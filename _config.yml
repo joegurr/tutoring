@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+include:
+  - README.md
+title: Joe Gurr Tutoring
+description: joe.gurr.tutor@gmail.com
