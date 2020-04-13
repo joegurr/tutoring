@@ -22,7 +22,7 @@ blurriness).
 
 ## Education
 
-- I recently completed a Bachelor of Mathematics (majoring in pure mathematics) from the University of Newcastle with a GPA of 6.96 out of 7
+- I recently completed a Bachelor of Mathematics (majoring in pure mathematics) from the University of Newcastle with a GPA of 6.96 out of 7.
 - I completed the HSC in 2014. I received an ATAR of 98.40.
 - The subjects I took in the HSC were Mathematics Extension 2, English (Advanced), Physics, Chemistry, Earth and Environmental Science, and Studies of Religion (1 Unit). I also took preliminary Geography in year 11.
 
